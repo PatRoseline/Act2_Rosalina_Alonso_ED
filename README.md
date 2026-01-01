@@ -12,6 +12,9 @@ proyecto-notas/
 ├── doc-notas.txt
 ├── index.html
 └── imagenes/
+    ├── Foto_Perfil.jpg
+    ├── Foto_general.jpg
+    └── Foto_varias.jpg
 ```
 
 ## Objetivos de Aprendizaje
