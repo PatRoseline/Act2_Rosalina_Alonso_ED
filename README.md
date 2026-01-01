@@ -10,7 +10,8 @@ Este proyecto es un sistema de gestión de notas académicas desarrollado como p
 proyecto-notas/
 ├── README.md
 ├── doc-notas.txt
-└── 
+├── index.html
+└── imagenes/
 ```
 
 ## Objetivos de Aprendizaje
