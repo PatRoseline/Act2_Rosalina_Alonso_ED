@@ -2,7 +2,7 @@
 SISTEMA DE GESTIÓN DE NOTAS ACADÉMICAS
 ===============================================
 
-Fecha de creación: Enero 2025
+Fecha de creación: Enero 2026
 Proyecto: Control de Versiones con Git
 
 -----------------------------------------------
@@ -21,7 +21,7 @@ ASIGNATURAS
 1. PROGRAMACIÓN
    - Tema: Introducción a Java
    - Conceptos: Variables, tipos de datos, bucles
-   - Estado: En progreso
+   - Estado: Completado
 
 2. BASES DE DATOS
    - Tema: Normalización
