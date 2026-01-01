@@ -1,0 +1,68 @@
+===============================================
+SISTEMA DE GESTIÓN DE NOTAS ACADÉMICAS
+===============================================
+
+Fecha de creación: Enero 2026
+Proyecto: Control de Versiones con Git
+
+-----------------------------------------------
+INTRODUCCIÓN
+-----------------------------------------------
+
+Este documento forma parte de un sistema simple
+para gestionar notas académicas. El objetivo es
+practicar el uso de Git y sus funcionalidades
+básicas de control de versiones.
+
+-----------------------------------------------
+ASIGNATURAS
+-----------------------------------------------
+
+1. PROGRAMACIÓN
+   - Tema: Introducción a Java
+   - Conceptos: Variables, tipos de datos, bucles
+   - Estado: En progreso
+
+2. BASES DE DATOS
+   - Tema: Normalización
+   - Conceptos: 1FN, 2FN, 3FN
+   - Estado: Completado
+
+3. DESARROLLO WEB
+   - Tema: HTML y CSS
+   - Conceptos: Estructura, estilos, responsive
+   - Estado: En progreso
+
+-----------------------------------------------
+NOTAS IMPORTANTES
+-----------------------------------------------
+
+* Recordar hacer commits frecuentes
+* Usar mensajes descriptivos
+* Crear ramas para nuevas funcionalidades
+* Revisar el historial regularmente
+* Mantener el código limpio y documentado
+
+-----------------------------------------------
+PRÓXIMOS PASOS
+-----------------------------------------------
+
+[ ] Añadir más asignaturas
+[ ] Incluir sistema de calificaciones
+[ ] Agregar fechas de exámenes
+[ ] Crear sección de recursos
+[ ] Implementar búsqueda por tema
+
+-----------------------------------------------
+VERSIONES
+-----------------------------------------------
+
+v0.1 - Estructura básica del documento
+     - Lista inicial de asignaturas
+     - Notas importantes
+
+[Espacio para futuras actualizaciones]
+
+===============================================
+FIN DEL DOCUMENTO
+===============================================
