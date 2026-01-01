@@ -83,6 +83,7 @@ git config --global user.email "tu.email@ejemplo.com"
 
 - **v0.1** - Estructura inicial del proyecto
 - **v1.0** - Primera versión estable
+- **v1.1** - Versión estable sin typos
 
 ## Autor
 
