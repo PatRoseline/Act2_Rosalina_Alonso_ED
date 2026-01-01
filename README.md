@@ -86,7 +86,7 @@ git config --global user.email "tu.email@ejemplo.com"
 
 ## Autor
 
-Rosalina Alojnso
+Rosalina Alonso Marañón
 
 ## Fecha
 
