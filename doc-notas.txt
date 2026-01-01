@@ -2,7 +2,7 @@
 SISTEMA DE GESTIÓN DE NOTAS ACADÉMICAS
 ===============================================
 
-Fecha de creación: Enero 2026
+Fecha de creación: Enero 2025
 Proyecto: Control de Versiones con Git
 
 -----------------------------------------------
