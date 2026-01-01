@@ -61,8 +61,6 @@ v0.1 - Estructura básica del documento
      - Lista inicial de asignaturas
      - Notas importantes
 
-[Espacio para futuras actualizaciones]
-
 ===============================================
 FIN DEL DOCUMENTO
 ===============================================
